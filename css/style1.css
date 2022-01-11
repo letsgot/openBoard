@@ -1,0 +1,19 @@
+
+#rect{
+    /* border: 2px solid rgb(213, 247, 21); */
+    height: 60px;
+    width: 60px;
+}
+
+#line{
+    /* border: 2px solid rgb(235, 11, 160); */
+    height: 60px;
+    width: 60px;
+}
+
+.fas{ 
+    margin-right: 30px;
+    margin-left: 30px;
+    font-size: 2rem;
+ }
+
